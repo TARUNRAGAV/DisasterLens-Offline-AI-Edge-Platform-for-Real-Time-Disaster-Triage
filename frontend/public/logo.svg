@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 450 120" width="100%" height="100%">
+  <defs>
+    <linearGradient id="cyanGlow" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#06b6d4" />
+      <stop offset="100%" stop-color="#3b82f6" />
+    </linearGradient>
+  </defs>
+  <!-- Cybernetic Lens/Target Symbol -->
+  <circle cx="60" cy="60" r="40" fill="none" stroke="url(#cyanGlow)" stroke-width="5" stroke-dasharray="12 6" />
+  <circle cx="60" cy="60" r="26" fill="none" stroke="#06b6d4" stroke-width="2" opacity="0.6"/>
+  <!-- Topographical/Crosshair Accents -->
+  <path d="M60 38 L60 82 M38 60 L82 60" stroke="#f59e0b" stroke-width="3" opacity="0.9"/>
+  <!-- Modern Typography -->
+  <text x="120" y="74" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-weight="900" font-size="44" fill="#ffffff" letter-spacing="3">
+    DISASTER<tspan fill="#06b6d4">LENS</tspan>
+  </text>
+</svg>
